@@ -24,10 +24,11 @@ Oct.22.2021
 
 ### Research Interest
 
-**PR**
+```PR```
 
 ``` Mass Communication ```
-{title: Email,icon:evenlope}
+
+**Email**
 
 
 ### Contact
