@@ -2,9 +2,9 @@
 Bryan Wang Research Group at UNL
 Oct.22.2021
 
-[People](wangresearchgroup.github.io)
-[Project](wangresearchgroup.github.io)
-[Research](wangresearchgroup.github.io)
+[People](wangresearchgroup.github.io/people/)
+[Project](wangresearchgroup.github.io/project/)
+[Research](wangresearchgroup.github.io/research/)
 
 
 
