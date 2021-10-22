@@ -2,13 +2,13 @@
 Bryan Wang Research Group at UNL
 Oct.22.2021
 
-###
+### ---
 [People](http://wangresearchgroup.github.io/People/)
 
-###
+### ---
 [Project](wangresearchgroup.github.io/Project/)
 
-###
+### ---
 [Research](wangresearchgroup.github.io/Research/)
 
 
